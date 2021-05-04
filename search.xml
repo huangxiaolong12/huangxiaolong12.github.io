@@ -8,7 +8,7 @@
       <link href="2021/05/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>2021/05/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>内容：<br>  历经了2天终于搭建出了一个属于自己的博客，并用了matery主题并完成了优化。接下来也会用博客记录自己<br>  的科研经历和成长。</p>]]></content>
       
       
       <categories>
@@ -23,6 +23,8 @@
             <tag> blog </tag>
             
             <tag> hexo </tag>
+            
+            <tag> GitHub </tag>
             
         </tags>
       
