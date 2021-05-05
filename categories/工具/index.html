@@ -29,7 +29,7 @@
 
     <script src="/libs/jquery/jquery.min.js"></script>
 
-<meta name="generator" content="Hexo 5.4.0"></head>
+<meta name="generator" content="Hexo 5.4.0"><link rel="stylesheet" href="/css/prism-tomorrow.css" type="text/css"></head>
 
 
 
@@ -661,6 +661,16 @@ $(function () {
     
     <script async src="/libs/others/busuanzi.pure.mini.js"></script>
     
+	<script type="text/javascript">
+		var OriginTitile = document.title,
+			st;
+		document.addEventListener("visibilitychange", function () {
+			document.hidden ? (document.title = "我相信你还会回来的！", clearTimeout(st)) : (document.title =
+				"哈哈，我就知道！", st = setTimeout(function () {
+					document.title = OriginTitile
+				}, 3e3))
+		})
+	</script>
 
     
 
